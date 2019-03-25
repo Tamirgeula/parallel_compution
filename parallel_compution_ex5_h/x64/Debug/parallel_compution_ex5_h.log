@@ -1,0 +1,17 @@
+﻿  mpi_controler.c
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\k-means_structs.h(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\k-means_structs.h(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\k-means_structs.h(156): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\k-means_structs.h(162): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\k-means_structs.h(169): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\k-means_structs.h(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\k-means_structs.h(172): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\k-means_structs.h(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\k-means_structs.h(192): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\mpi_structs.h(133): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\mpi_structs.h(140): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\mpi_structs.h(147): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\mpi_structs.h(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\mpi_structs.h(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\tamir geula\desktop\parallel_compution\parallel_compution_ex5_h_copy(ex3)\parallel_compution_ex5_h\mpi_controler.c(87): warning C4013: 'cudaCalcPointsMediator' undefined; assuming extern returning int
+  parallel_compution_ex5_h.vcxproj -> C:\Users\Tamir Geula\Desktop\Parallel_compution\parallel_compution_ex5_h_Copy(ex3)\x64\Debug\parallel_compution_ex5_h.exe
